@@ -83,7 +83,8 @@ Getting Started
 
 
 
-git clone https://github.com/yourusername/jobsense-ai.git
+git clone https://github.com/Pihu200106/JobsenseAI
+
 cd jobsense-ai
 
 2. Install dependencies:
